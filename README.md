@@ -2,6 +2,7 @@
 
 I'm Gethma Perera. Information Technology Graduate 🎓. I like to code 👩‍💻 and learn! 
 <br>
+<br>
 🌱 I’m currently a Full Stack Java Developer Trainee at mthree/The Software Guild  
 <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/gethmaperera/"> LinkedIn </a> , <a href="mailto:gethmaperera@gmail.com">Gmail</a> 
